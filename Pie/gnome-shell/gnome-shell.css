@@ -46,3 +46,19 @@ stage {
     color: #fff;
 }
 
+/* ===================================================================
+ * Messages
+ * ===================================================================*/
+
+.message {
+  background-color: rgba(57, 63, 63, 0.9);
+  border: none;
+  border-radius: 3px;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.8);
+  margin-top: 30px;
+  padding: 5px;
+}
+
+.message-icon-bin {
+  padding-right: 5px;
+}
