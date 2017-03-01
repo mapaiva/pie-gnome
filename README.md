@@ -1,6 +1,14 @@
 # pie-gnome
 Another flat theme for gnome
 
+![shell](./assets/shell.png)
+
+![messages](./assets/message.png)
+
+### Prerequisites
+
+- [Roboto font](https://fonts.google.com/specimen/Roboto)
+
 ### Installation
 
 Just clone the project
